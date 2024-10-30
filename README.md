@@ -1,8 +1,8 @@
 # Trabalho Aplicações de Big Data e Data Science com foco em Marketing
-#Membros:
-Carol 259629 
-Elidio 259366 
-Laís 258544 
-Marcelo 213444 
-Valter 169456
-Vanessa 251437 
+Membros:
+Carol 259629 <br>
+Elidio 259366 </br>
+Laís 258544  <br>
+Marcelo 213444 </br>
+Valter 169456 <br>
+Vanessa 251437 </br>
