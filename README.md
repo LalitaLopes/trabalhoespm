@@ -1,5 +1,5 @@
 # Trabalho Aplicações de Big Data e Data Science com foco em Marketing
-Membros:
+Membros:<br>
 Carol 259629 <br>
 Elidio 259366 </br>
 Laís 258544  <br>
